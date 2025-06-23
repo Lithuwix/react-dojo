@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-dojo/static/css/main.073c9b0a.css",
-    "main.js": "/react-dojo/static/js/main.2acf77f6.js",
+    "main.js": "/react-dojo/static/js/main.c642ec2b.js",
     "static/js/787.177e23c2.chunk.js": "/react-dojo/static/js/787.177e23c2.chunk.js",
     "index.html": "/react-dojo/index.html",
     "main.073c9b0a.css.map": "/react-dojo/static/css/main.073c9b0a.css.map",
-    "main.2acf77f6.js.map": "/react-dojo/static/js/main.2acf77f6.js.map",
+    "main.c642ec2b.js.map": "/react-dojo/static/js/main.c642ec2b.js.map",
     "787.177e23c2.chunk.js.map": "/react-dojo/static/js/787.177e23c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.2acf77f6.js"
+    "static/js/main.c642ec2b.js"
   ]
 }
