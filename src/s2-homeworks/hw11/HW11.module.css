@@ -1,8 +1,21 @@
 .container {
+
 }
 
 .wrapper {
+    padding: 20px 0;
+    display: flex;
+    align-items: center;
+    gap: 15px;
 }
 
 .number {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 45px;
+    height: 40px;
+    border: 1px solid rgba(95, 44, 150, 0.57);
+    border-radius: 30px;
+    margin: 0 15px;
 }

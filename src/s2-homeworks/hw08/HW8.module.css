@@ -2,18 +2,25 @@
 }
 
 .item:last-of-type {
+
 }
 
 .users {
+    border: 2px solid rgba(23, 85, 147, 0.7);
+    border-spacing: 20px;
 }
 
 .buttonsContainer {
+    display: flex;
+    gap: 5px;
+    margin-bottom: 15px;
 }
 
 .container {
 }
 
 .thead {
+    background-color: rgba(28, 94, 166, 0.11);
 }
 
 .nameCol {

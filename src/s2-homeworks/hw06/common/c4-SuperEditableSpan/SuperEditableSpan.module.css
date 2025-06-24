@@ -1,11 +1,17 @@
 .spanBlock {
+    display: flex;
+    align-items: center;
+    gap: 10px;
 }
 
 .span {
+    user-select: none;
 }
 
 .input {
+    padding-left: 10px;
 }
 
 .pen {
+
 }

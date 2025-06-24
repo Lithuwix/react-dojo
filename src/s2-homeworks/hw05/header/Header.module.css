@@ -1,8 +1,16 @@
 .burgerMenuIcon {
+    cursor: pointer;
 }
 
 .header {
+    height: 100px;
+    padding: 0 20px 0 100px;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .header h1 {
+    color: rebeccapurple;
 }

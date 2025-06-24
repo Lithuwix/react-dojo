@@ -1,7 +1,12 @@
 .buttonsContainer {
+    display: flex;
+    gap: 10px;
+
 }
 
 .responseContainer {
+    height: 400px;
+    margin-top: 15px;
 }
 
 .imageContainer {

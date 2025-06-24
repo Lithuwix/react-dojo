@@ -3,9 +3,11 @@
 }
 
 .hw {
-
+    margin: 0 10px 40px;
+    padding: 20px;
+    border: 3px solid rgba(67, 84, 169, 0.35);
 }
 
 .hwTitle {
-
+    margin: 30px 20px;
 }

@@ -1,4 +1,5 @@
 .label {
+    user-select: none;
     display: flex;
     align-items: center;
 
@@ -23,7 +24,7 @@
     vertical-align: middle;
     margin-right: 8px;
     border-radius: 3px;
-    border: 2px solid #06c;
+    border: 2px solid #1c5ea6;
     cursor: pointer;
 }
 
@@ -35,10 +36,10 @@
 }
 
 .checkbox:focus {
-    border-color: #0059b3;
+    border-color: #1c5ea6;
 }
 
 .spanClassName {
     font-family: 'Montserrat', sans-serif;
-    color: #06c;
+    color: #1c5ea6;
 }

@@ -1,9 +1,16 @@
 .select {
+    user-select: none;
+    cursor: pointer;
+    border: 0;
+    padding: 10px 30px 10px 5px;
 }
 
 .select:focus {
 }
 
+.option {
+
+}
 
 .option:hover {
 }

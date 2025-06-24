@@ -1,14 +1,21 @@
 .buttonsContainer {
+    display: flex;
+    gap: 5px;
 }
 
 .clock {
+    cursor: default;
 }
 
 .watch {
+    font-size: 18px;
 }
 
 .watch strong {
 }
 
 .more {
+    padding-bottom: 10px;
+    color: #1c1c81;
+    font-weight: 600;
 }
