@@ -18,11 +18,13 @@ function HW11() {
   );
 
   const change = (event: Event, value: number | number[]) => {
-    if (Array.isArray(value)) {
+    if (typeof value === "object") {
       setValue1(value[0]);
       setValue2(value[1]);
-    } else setValue1(value);
-    // пишет студент // если пришёл массив - сохранить значения в оба useState, иначе в первый
+    } else {
+      const target = event?.target as HTMLInputElement;
+      setValue1(+target.value);
+    }
   };
 
   return (
