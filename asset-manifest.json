@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-dojo/static/css/main.aa063906.css",
-    "main.js": "/react-dojo/static/js/main.0c9974b1.js",
+    "main.css": "/react-dojo/static/css/main.afa42581.css",
+    "main.js": "/react-dojo/static/js/main.914c2200.js",
     "static/js/787.66cb4309.chunk.js": "/react-dojo/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/react-dojo/static/media/avatar.d947cb9d0d13765666b6.png",
     "static/media/200.svg": "/react-dojo/static/media/200.96248f7df0dde10e0a82ac30418f50bc.svg",
@@ -14,12 +14,12 @@
     "static/media/checked.svg": "/react-dojo/static/media/checked.b75ca55e8759862b4083.svg",
     "index.html": "/react-dojo/index.html",
     "static/media/burger.svg": "/react-dojo/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
-    "main.aa063906.css.map": "/react-dojo/static/css/main.aa063906.css.map",
-    "main.0c9974b1.js.map": "/react-dojo/static/js/main.0c9974b1.js.map",
+    "main.afa42581.css.map": "/react-dojo/static/css/main.afa42581.css.map",
+    "main.914c2200.js.map": "/react-dojo/static/js/main.914c2200.js.map",
     "787.66cb4309.chunk.js.map": "/react-dojo/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa063906.css",
-    "static/js/main.0c9974b1.js"
+    "static/css/main.afa42581.css",
+    "static/js/main.914c2200.js"
   ]
 }
