@@ -1,11 +1,12 @@
 .pagination {
     display: flex;
+    margin-top:20px;
+    margin-bottom:20px;
 }
 
 .text1 {
-
+    margin-left:30px;
 }
 
 .text2 {
-
 }
