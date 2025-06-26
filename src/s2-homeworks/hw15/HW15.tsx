@@ -15,7 +15,6 @@ import SuperSort from './common/c10-SuperSort/SuperSort'
 * 5 - добавить HW15 в HW5/pages/JuniorPlus
 * */
 
-
 type TechType = {
   id: number
   tech: string
@@ -54,7 +53,6 @@ const HW15 = () => {
 
     getTechs(params)
         .then((res) => {
-          // делает студент
           if (res) {
             setTechs(res.data.techs)
             setTotalCount(Math.ceil(res.data.totalCount / count))
@@ -71,8 +69,6 @@ const HW15 = () => {
   }
 
   const onChangeSort = (newSort: string) => {
-    // делает студент
-
     setSort(newSort)
     setPage(1)
     const {sort, page, ...lastQueries} = Object.fromEntries(searchParams)

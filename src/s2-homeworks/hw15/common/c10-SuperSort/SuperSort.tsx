@@ -1,9 +1,6 @@
 import React from 'react'
-import ArrowDropDownIcon from '@mui/icons-material/ArrowDropDown';
-import {Icon, SvgIcon} from "@mui/material";
-const noneIcon = '[--]'
-
-// todo:Импортировать просто картинку иконки в эти переменные ?
+import { Icon } from "@mui/material";
+// const noneIcon = '[--]'
 
 export type SuperSortPropsType = {
     id?: string
@@ -14,14 +11,7 @@ export type SuperSortPropsType = {
 
 
 export const pureChange = (sort: string, down: string, up: string) => {
-
     return sort === down ? up : sort === up ? '' : down
-
-    // пишет студент, sort: (click) => down (click) => up (click) => '' (click) => down ...
-    // console.log('xd')
-
-
-    // return up // исправить
 }
 
 const SuperSort: React.FC<SuperSortPropsType> = (
