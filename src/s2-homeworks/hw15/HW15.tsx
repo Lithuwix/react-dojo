@@ -108,7 +108,6 @@ const HW15 = () => {
         <div className={s2.hw}>
           {idLoading && <div id={'hw15-loading'} className={s.loading}></div>}
 
-
           <SuperPagination
               page={page}
               itemsCountForPage={count}
